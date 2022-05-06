@@ -2,9 +2,9 @@
   Readme-template
 </h1>
 
-![Deposit Flow](./assets/Deposit%20flow.jpg)
+![Deposit Flow](../assets/Deposit%20flow.jpg)
 
-![Affilka Flow](./assets/Affilka.jpeg)
+![Affilka Flow](../Dummy-check/asstes/Affilka.jpeg)
 
 ![payment Flow](./assets/Payments.pdf)
 
