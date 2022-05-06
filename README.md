@@ -1,18 +1,6 @@
-<h1 align="center">
-  Readme-template
-</h1>
-
-![Project Logo](./assets/Rapid%20Logo.jpeg)
-
-![Deposit Flow](../assets/Deposit%20flow.jpg)
-
-![Affilka Flow](../Dummy-check/asstes/Affilka.jpeg)
-
-![payment Flow](./assets/Payments.pdf)
-
 # About graphql-flush
 
-this Repository act as a API_Gateway to all other microservices
+this Repository act as a Gateway to all other microservices
 following microservices are using to run the Flush Project
 
 - Flush-casino-mine
@@ -24,8 +12,6 @@ following microservices are using to run the Flush Project
 - Betfeed
 - admin graphql
 
----
-
 - currently the master branch is demo and prod is production
 
 ---
@@ -35,8 +21,6 @@ following microservices are using to run the Flush Project
 1. softgaming
 2. Oryx Gaming (implementation under progress)
 
----
-
 # Other service
 
 - Blockcypher
@@ -44,6 +28,28 @@ following microservices are using to run the Flush Project
 - banxa (buy crypto with feat currency Gateway)(implementation under progress)
 
 ---
+
+## Installation
+
+```bash
+$ yarn install or npm install
+```
+
+## Environment variables
+
+Please refer [.env.example](./.example.env) for the env variables that is needed
+
+---
+
+## Running the app
+
+```bash
+# development
+$ yarn run dev or npm run dev
+
+# to generate resolver-types.ts
+$ yarn run generate or npm run generate
+```
 
 'resolver-types.ts' is generated using codegen. Following steps should be followed:
 
