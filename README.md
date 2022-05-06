@@ -2,6 +2,8 @@
   Readme-template
 </h1>
 
+![Project Logo](./assets/Rapid%20Logo.jpeg)
+
 ![Deposit Flow](../assets/Deposit%20flow.jpg)
 
 ![Affilka Flow](../Dummy-check/asstes/Affilka.jpeg)
