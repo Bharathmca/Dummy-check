@@ -1,7 +1,52 @@
-hey Dummy check
-hey check-1
-hey check-2
-hey check-3
-hey check-4
-hey check-5
-hey check-6
+<h1 align="center">
+  Readme-template
+</h1>
+
+![Deposit Flow](./assets/Deposit%20flow.jpg)
+
+![Affilka Flow](./assets/Affilka.jpg)
+
+![payment Flow](./assets/Payments.pdf)
+
+# About graphql-flush
+
+this Repository act as a API_Gateway to all other microservices
+following microservices are using to run the Flush Project
+
+- Flush-casino-mine
+- HILO
+- Crash
+- GRAPHQL(Main)
+- Crash
+- Blockchain Monitoring
+- Betfeed
+- admin graphql
+
+---
+
+- currently the master branch is demo and prod is production
+
+---
+
+# Slots and Livecasino Games Dependencies
+
+1. softgaming
+2. Oryx Gaming (implementation under progress)
+
+---
+
+# Other service
+
+- Blockcypher
+- Affilka
+- banxa (buy crypto with feat currency Gateway)(implementation under progress)
+
+---
+
+'resolver-types.ts' is generated using codegen. Following steps should be followed:
+
+- Make the schema and resolvers
+- start the server (also see codegen.yaml)
+- run yarn generate or npm generate in another terminal (this will create/update resolver-types.ts)
+
+No need to edit 'resolver-types.ts' (file which automatically created when we run npm run generate)
