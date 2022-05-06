@@ -4,7 +4,7 @@
 
 ![Deposit Flow](./assets/Deposit%20flow.jpg)
 
-![Affilka Flow](./assets/Affilka.jpg)
+![Affilka Flow](./assets/Affilka.jpeg)
 
 ![payment Flow](./assets/Payments.pdf)
 
